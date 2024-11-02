@@ -1,0 +1,70 @@
+2024-10-18 16:13:20.437751200 [ControladorVotos.main()] Se inicia la aplicacion
+2024-10-18 16:13:20.862354200 [GestorProductos.cargarProducto()] Productos cargados exitosamente.
+2024-10-18 16:13:20.863787000 [Producto.cargarVotos()] Votos cargados para: Cafetería FIQ
+2024-10-18 16:13:20.863787000 [Producto.cargarVotos()] Votos cargados para: Cafetería FMAT
+2024-10-18 16:13:20.863787000 [Producto.cargarVotos()] Votos cargados para: Cafetería FI
+2024-10-18 16:13:21.563415100 [App.inicializarProductos()] Se inicializaron los productos correctamente
+2024-10-18 16:13:29.607630600 [App.agregarAccionesBotonesGraficas()] Se muestra el grafico de Pastel
+2024-10-18 16:13:30.530652200 [App.agregarAccionesBotonesGraficas()] Se muestra el grafico de barras
+2024-10-18 22:52:57.603055800 [ControladorVotos.main()] Se inicia la aplicacion
+2024-10-18 22:52:57.901578800 [GestorProductos.cargarProducto()] Productos cargados exitosamente.
+2024-10-18 22:52:57.902578500 [Producto.cargarVotos()] Votos cargados para: Cafetería FIQ
+2024-10-18 22:52:57.903822100 [Producto.cargarVotos()] Votos cargados para: Cafetería FMAT
+2024-10-18 22:52:57.904822100 [Producto.cargarVotos()] Votos cargados para: Cafetería FI
+2024-10-18 22:52:58.366538100 [App.inicializarProductos()] Se inicializaron los productos correctamente
+2024-10-18 22:53:12.108520100 [Producto.guardarVoto()] Voto guardado para: Cafetería FI
+2024-10-18 22:53:12.109520800 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FI
+2024-10-18 22:53:12.110519000 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FI
+2024-10-18 22:53:12.260123900 [Producto.guardarVoto()] Voto guardado para: Cafetería FI
+2024-10-18 22:53:12.261123600 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FI
+2024-10-18 22:53:12.261123600 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FI
+2024-10-18 22:53:12.428341900 [Producto.guardarVoto()] Voto guardado para: Cafetería FI
+2024-10-18 22:53:12.428341900 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FI
+2024-10-18 22:53:12.429343500 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FI
+2024-10-18 22:53:12.684804900 [Producto.guardarVoto()] Voto guardado para: Cafetería FI
+2024-10-18 22:53:12.684804900 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FI
+2024-10-18 22:53:12.685807400 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FI
+2024-10-18 22:53:12.844507100 [Producto.guardarVoto()] Voto guardado para: Cafetería FI
+2024-10-18 22:53:12.844507100 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FI
+2024-10-18 22:53:12.845509300 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FI
+2024-10-18 22:53:12.996680700 [Producto.guardarVoto()] Voto guardado para: Cafetería FI
+2024-10-18 22:53:12.996680700 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FI
+2024-10-18 22:53:12.997679200 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FI
+2024-10-18 22:53:13.148602600 [Producto.guardarVoto()] Voto guardado para: Cafetería FI
+2024-10-18 22:53:13.149601900 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FI
+2024-10-18 22:53:13.149601900 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FI
+2024-10-18 22:53:13.300888700 [Producto.guardarVoto()] Voto guardado para: Cafetería FI
+2024-10-18 22:53:13.300888700 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FI
+2024-10-18 22:53:13.300888700 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FI
+2024-10-18 22:53:20.737114300 [ControladorVotos.main()] Se inicia la aplicacion
+2024-10-18 22:53:21.21203000 [GestorProductos.cargarProducto()] Productos cargados exitosamente.
+2024-10-18 22:53:21.23296600 [Producto.cargarVotos()] Votos cargados para: Cafetería FIQ
+2024-10-18 22:53:21.24504700 [Producto.cargarVotos()] Votos cargados para: Cafetería FMAT
+2024-10-18 22:53:21.25507300 [Producto.cargarVotos()] Votos cargados para: Cafetería FI
+2024-10-18 22:53:21.455789600 [App.inicializarProductos()] Se inicializaron los productos correctamente
+2024-10-18 22:53:27.846519900 [App.agregarAccionesBotonesGraficas()] Se muestra el grafico de Pastel
+2024-10-18 22:53:31.245076100 [App.agregarAccionesBotonesGraficas()] Se muestra el grafico de barras
+2024-10-18 22:53:45.604459800 [Producto.guardarVoto()] Voto guardado para: Cafetería FMAT
+2024-10-18 22:53:45.605462200 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FMAT
+2024-10-18 22:53:45.606460200 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FMAT
+2024-10-18 22:53:46.388490500 [Producto.guardarVoto()] Voto guardado para: Cafetería FMAT
+2024-10-18 22:53:46.389489300 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FMAT
+2024-10-18 22:53:46.391485300 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FMAT
+2024-10-18 22:53:47.260320400 [Producto.guardarVoto()] Voto guardado para: Cafetería FIQ
+2024-10-18 22:53:47.261321100 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FIQ
+2024-10-18 22:53:47.262322200 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FIQ
+2024-10-18 22:53:47.996611000 [Producto.guardarVoto()] Voto guardado para: Cafetería FMAT
+2024-10-18 22:53:47.996611000 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FMAT
+2024-10-18 22:53:47.997614100 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FMAT
+2024-10-18 22:53:48.164598300 [Producto.guardarVoto()] Voto guardado para: Cafetería FMAT
+2024-10-18 22:53:48.164598300 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FMAT
+2024-10-18 22:53:48.165600000 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FMAT
+2024-10-18 22:53:48.316447200 [Producto.guardarVoto()] Voto guardado para: Cafetería FMAT
+2024-10-18 22:53:48.316447200 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FMAT
+2024-10-18 22:53:48.317445400 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FMAT
+2024-10-18 22:53:48.476056500 [Producto.guardarVoto()] Voto guardado para: Cafetería FMAT
+2024-10-18 22:53:48.476056500 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FMAT
+2024-10-18 22:53:48.477056900 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FMAT
+2024-10-18 22:53:48.683448000 [Producto.guardarVoto()] Voto guardado para: Cafetería FMAT
+2024-10-18 22:53:48.684870100 [ControladorVotos.procesarVoto()] Voto procesado para: Cafetería FMAT
+2024-10-18 22:53:48.684870100 [App.inicializarProdcutos()] Se proceso el voto para Cafetería FMAT
